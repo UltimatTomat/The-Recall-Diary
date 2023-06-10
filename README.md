@@ -1,2 +1,3 @@
 # The-Recall-Diary
-Remember all the things you do!
+You can now remember everything you did
+by simply writing it down in this application!
